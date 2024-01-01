@@ -1,5 +1,5 @@
 module.exports = {
-  title: `zoomkoding.com`,
+  title: `킹받나요?`,
   description: `황민채의 개발일기`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://www.zoomkoding.com`,
@@ -15,7 +15,7 @@ module.exports = {
     bio: {
       role: `개발자`,
       description: ['WWDC랑 찐친 되고싶은', '거북이 걸음인', '성장하게 될'],
-      thumbnail: '대표.gif', // Path to the image in the 'asset' folder
+      thumbnail: 'thumbnail.gif', // Path to the image in the 'asset' folder
     },
     social: {
       github: ``, // `https://github.com/Hminchae`,
