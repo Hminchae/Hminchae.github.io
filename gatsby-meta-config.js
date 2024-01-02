@@ -13,14 +13,14 @@ module.exports = {
   author: {
     name: `황민채`,
     bio: {
-      role: `개발자`,
+      role: `iOS 개발자`,
       description: ['WWDC랑 찐친 되고싶은', '거북이 걸음인', '성장하게 될'],
       thumbnail: 'thumbnail.gif', // Path to the image in the 'asset' folder
     },
     social: {
-      github: ``, // `https://github.com/Hminchae`,
-      linkedIn: ``, // `https://www.linkedin.com/in/minchae-hwang-1452b3245/`,
-      email: ``, // `hminchae@gmail.com`,
+      github: `https://github.com/Hminchae`, 
+      linkedIn: `https://www.linkedin.com/in/minchae-hwang-1452b3245/`, 
+      email: `hminchae@gmail.com`, 
     },
   },
 
